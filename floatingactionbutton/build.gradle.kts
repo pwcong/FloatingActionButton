@@ -7,7 +7,7 @@ plugins {
 }
 
 android {
-    namespace = "me.pwcong.floatingactionbutton"
+    namespace = "com.github.pwcong.floatingactionbutton"
     compileSdk = 34
 
     defaultConfig {

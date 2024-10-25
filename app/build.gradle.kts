@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "me.pwcong.floatingactionbuttondemo"
+    namespace = "com.github.pwcong.floatingactionbuttondemo"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "me.pwcong.floatingactionbuttondemo"
+        applicationId = "com.github.pwcong.floatingactionbuttondemo"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

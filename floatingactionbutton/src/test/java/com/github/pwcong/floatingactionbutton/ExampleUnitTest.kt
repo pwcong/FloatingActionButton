@@ -1,4 +1,4 @@
-package me.pwcong.floatingactionbuttondemo
+package com.github.pwcong.floatingactionbutton
 
 import org.junit.Test
 

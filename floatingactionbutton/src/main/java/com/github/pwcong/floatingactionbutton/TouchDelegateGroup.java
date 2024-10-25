@@ -1,4 +1,4 @@
-package me.pwcong.floatingactionbutton;
+package com.github.pwcong.floatingactionbutton;
 
 import android.graphics.Rect;
 
